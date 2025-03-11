@@ -16,3 +16,4 @@
     1. Download the game/file using Quixel bridge
     2. Use previously processed jpg to create facial pattern textures by dragging the texture into the material editor and connecting the texture to the base color node
 5. **Use the plugin Metahuman SDK to speak(voice-to-facial movement or text to speech then movent) or as needed**
+6. **update4.0**UE5 also could be ran to do deeplearning which could be applied futher when AI movement could be implimented. Moreover, it is possible to use q-learning to train movement directly in UE however not with metahuman(?)
